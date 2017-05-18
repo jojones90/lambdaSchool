@@ -1,1 +1,1 @@
-fuck off dorian
+Hw1projx is essentially a very basic use of html and css.  For positioning, understanding divs, id/class tags/selectors, and very minimal positioning relative to other elements on the page.
