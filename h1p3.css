@@ -1,0 +1,42 @@
+#fullScr 
+{
+  position: absolute;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+}
+#purpTop{
+    height:15%;
+    background-color: purple;
+}
+#redCenter{
+    width:75%;
+    height:85%;
+    background-color:red;
+    margin:auto;
+    padding:5%;
+}
+.blueBox{
+    height:30%;
+    width:80%;
+    background-color:blue;
+    margin: 3% auto;
+    position: relative;
+}
+.yellowLeft{
+    height:45%;
+    width:25%;
+    background-color:yellow;
+    position:absolute;
+    top:7%;
+    left:7%;
+}
+.greenRight{
+    height:75%;
+    width:55%;
+    background-color:green;
+    position:absolute;
+    top:7%;
+    left: 37%;
+}

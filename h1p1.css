@@ -1,0 +1,28 @@
+#fullScr 
+{
+  background-color: yellow;
+  position: absolute;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+}
+#topScr 
+{
+  background-color: red;
+  height: 12%;
+}
+#centerScr 
+{
+  background-color: blue;
+  margin: auto;
+  width: 72%;
+  height: 81%;
+}
+#BotScr 
+{
+  background-color: green;
+  margin: auto;
+  width: 72%;
+  height: 7%;
+}

@@ -1,0 +1,31 @@
+#fullScr{
+  background-color: green;
+  position: absolute;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+}
+#topScr {
+  background-color: red;
+  height:10%;
+}
+#leftScr {
+  background-color: blue;
+  float:left;
+  width:33%;
+  height:80%;
+}
+#centerScr {
+  background-color: purple;
+  display: inline-block;
+  margin: auto;
+  width:34%;
+  height:80%;
+}
+#rightScr {
+  background-color: yellow;
+  float:right;
+  width:33%;
+  height:80%;
+}
